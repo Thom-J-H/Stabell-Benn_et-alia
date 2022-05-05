@@ -5,6 +5,8 @@ This project explores the results presented in Stabell-Benn, et alia, "Do Adenov
 ![all_cause_mort](https://user-images.githubusercontent.com/12042357/166860788-f2b8f83c-05eb-4bbf-b31a-9c219a565674.png)
 
 <p> ... </p>
+
+
 ![chart](https://user-images.githubusercontent.com/12042357/166860814-0e824268-0454-4b40-8764-0d253256e91c.png)
 
 <hr/>
