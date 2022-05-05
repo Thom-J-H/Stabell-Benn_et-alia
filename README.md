@@ -4,8 +4,6 @@ This project explores the results presented in Stabell-Benn, et alia, "Do Adenov
 <hr/>
 
 <hr />
-If you find these results useful, please consider <a href = "http://buymeacoffee.com/datahumanist">buying me a coffee</a>!
-
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
@@ -24,3 +22,7 @@ This work is published from:
       content="US" about="https://github.com/Thom-J-H/map_Gap_2_Tidy">
   United States</span>.
 </p>
+
+If you find these results useful, please consider <a href = "http://buymeacoffee.com/datahumanist">buying me a coffee</a>!
+
+
