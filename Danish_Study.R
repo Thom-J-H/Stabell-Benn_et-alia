@@ -65,7 +65,7 @@ dan_plot +
        subtitle = "Stabell-Benn, et alia. The Lancet (5 Apr 2022): https://ssrn.com/abstract=4072489", 
        x = "Favors vaccine < 1  | Favors placebo > 1",
        y = "Vaccination Type",
-       caption = "Data Humanist. CC0 (Public Domain)")
+       caption = "Data Humanist, CC0 (Public Domain)")
 
 
 
@@ -90,7 +90,7 @@ danish_study %>%
        subtitle = "Stabell-Benn, et alia. The Lancet (5 Apr 2022): https://ssrn.com/abstract=4072489", 
        x = "Favors vaccine < 1  | Favors placebo > 1",
        y = "Vaccination Type",
-       caption = "Data Humanist. CC0 (Public Domain)")
+       caption = "Data Humanist, CC0 (Public Domain)")
 
 
 
@@ -117,7 +117,7 @@ danish_study %>%
        subtitle = "Stabell-Benn, et alia. The Lancet (5 Apr 2022): https://ssrn.com/abstract=4072489", 
        x = "Favors vaccine < 1  | Favors placebo > 1",
        y = "Vaccination Type",
-       caption = "Data Humanist. CC0 (Public Domain)")
+       caption = "Data Humanist, CC0 (Public Domain)")
 
 
 
@@ -143,7 +143,7 @@ danish_study %>%
        subtitle = "Stabell-Benn, et alia. The Lancet (5 Apr 2022): https://ssrn.com/abstract=4072489", 
        x = "Favors vaccine < 1  | Favors placebo > 1",
        y = "Vaccination Type",
-       caption = "Data Humanist. CC0 (Public Domain)")
+       caption = "Data Humanist, CC0 (Public Domain)")
 
 
 
@@ -169,7 +169,7 @@ danish_study %>%
        subtitle = "Stabell-Benn, et alia. The Lancet (5 Apr 2022): https://ssrn.com/abstract=4072489", 
        x = "Favors vaccine < 1  | Favors placebo > 1",
        y = "Vaccination Type",
-       caption = "Data Humanist. CC0 (Public Domain)")
+       caption = "Data Humanist, CC0 (Public Domain)")
 
 
 
