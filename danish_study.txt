@@ -1,0 +1,9 @@
+Index, Concern, Vaccine_Type, Rel_Risk, Low_95, High_95
+1,Overall Mortality, mRNA, 1.03, 0.63, 1.71
+2,Overall Mortality, Adeno, 0.37, 0.19, 0.70
+3,Covid-19 Deaths, mRNA, 0.40, 0.08, 2.06
+4,Covid-19 Deaths, Adeno, 0.11, 0.02, 0.87
+5,Cardiovascular Deaths, mRNA, 1.45, 0.67, 3.13
+6,Cardiovascular Deaths, Adeno, 0.07, 0.01, 0.41
+7, Other (Non-accidental), mRNA, 1.17, 0.67, 2.05
+8, Other (Non-accidental),  Adeno, 0.38, 0.17, 0.88
